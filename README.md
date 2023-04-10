@@ -1,1 +1,1 @@
-# get_courses
+# git_courses
